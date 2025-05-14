@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow
+Flask
+Transformers
+torch
+Scikit-learn
+bootstrap
+python-dotenv
